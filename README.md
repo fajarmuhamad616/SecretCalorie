@@ -1,6 +1,6 @@
 # SecretCalorie
 
-Application Sains Technology Engineering and Mathematics Course  Semester 2
+Application Sains Technology Engineering and Mathematics Course  Semester 2 
 
 Contributor
 - [Daffa Almer Fauzan](https://github.com/daffaalmerf "Daffa Almer Fauzan")
